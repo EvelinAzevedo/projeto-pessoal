@@ -34,10 +34,6 @@ do {
             alert('Opção inválida!')
     }
 } while (option !== '3')
-// do {
-//     option = confirm(confirmacao)
-//     adicionar(prompt('Escreva o nome da matéria'))
-// } while (option === true)
 
 
 
